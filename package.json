@@ -1,26 +1,26 @@
 {
   "name": "webpack-ejs3-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "webpack loader use to compile ejs templates (without frontend dependencies)",
   "author": "Eugene M.",
   "contributors": [
     "Long Wei"
   ],
   "license": "MIT",
-  "repository": "defims/compile-ejs-loader",
+  "repository": "t0lkman/webpack-ejs3-loader/",
   "homepage": "https://github.com/t0lkman/webpack-ejs3-loader/",
   "bugs": "https://github.com/t0lkman/webpack-ejs3-loader/issues",
   "main": "index.js",
   "devDependencies": {
-    "webpack": "^4.43.0"
+    "webpack": "^4.0.0"
   },
   "peerDependencies": {
     "webpack": "^4.0.0 || ^5.0.0"
   },
   "dependencies": {
-    "ejs": "^3.1.2",
-    "html-minifier": "^4.0.0",
-    "uglify-js": "^3.9.2",
-    "loader-utils": "^2.0.0"
+    "ejs": "~3.1.2",
+    "html-minifier": "~4.0.0",
+    "uglify-js": "~3.9.2",
+    "loader-utils": "~2.0.0"
   }
 }
