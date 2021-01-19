@@ -1,15 +1,15 @@
 {
-  "name": "webpack-ejs3-loader",
-  "version": "0.0.2",
+  "name": "@polleverywhere/webpack-ejs3-loader",
+  "version": "0.0.2-pe.1",
   "description": "webpack loader use to compile ejs templates (without frontend dependencies)",
   "author": "Eugene M.",
   "contributors": [
     "Long Wei"
   ],
   "license": "MIT",
-  "repository": "t0lkman/webpack-ejs3-loader/",
-  "homepage": "https://github.com/t0lkman/webpack-ejs3-loader/",
-  "bugs": "https://github.com/t0lkman/webpack-ejs3-loader/issues",
+  "repository": "polleverywhere/webpack-ejs3-loader",
+  "homepage": "https://github.com/polleverywhere/webpack-ejs3-loader/",
+  "bugs": "https://github.com/polleverywhere/webpack-ejs3-loader/issues",
   "main": "index.js",
   "devDependencies": {
     "webpack": "^4.0.0"
